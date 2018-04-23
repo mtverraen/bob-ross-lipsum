@@ -6,11 +6,6 @@ function getPhrases (length) {
   if (!length) length = 1
   var happyPhrases = []
   for (var i=0; i<length; i++) {
-    happyPhrases.push(
-      const randomChoice = arr => {
-      const randIndex = Math.floor(Math.random() * arr.length);
-      return arr[randIndex];
-};)
     happyPhrases.push(getPhrase())
   }
   return happyPhrases.join(' ')
@@ -390,41 +385,4 @@ var phrases = [
   "You're meant to have fun in life.",
   "You're the greatest thing that has ever been or ever will be. You're special. You're so very special.",
   "You've got to learn to fight the temptation to resist these things. Just let them happen."
-]
-var profanity = [
-
-"anus",
-"arse",
-"arsehole",
-"ass",
-"ass-hat",
-"ass-jabber",
-"ass-pirate",
-"assbag",
-"assbandit",
-"assbanger",
-"assbite",
-"assclown",
-"asscock",
-"asscracker",
-"asses",
-"assface",
-"assfuck",
-"assgoblin",
-"asshat",
-"asshead",
-"asshole",
-"asshopper",
-"assjacker",
-"asslick",
-"asslicker",
-"assmonkey",
-"assmunch",
-"assmuncher",
-"asspirate",
-"assshit",
-"assshole",
-"asssucker",
-"asswad",
-"asswipe"
 ]
