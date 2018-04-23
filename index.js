@@ -6,6 +6,11 @@ function getPhrases (length) {
   if (!length) length = 1
   var happyPhrases = []
   for (var i=0; i<length; i++) {
+    happyPhrases.push(
+      const randomChoice = arr => {
+      const randIndex = Math.floor(Math.random() * arr.length);
+      return arr[randIndex];
+};)
     happyPhrases.push(getPhrase())
   }
   return happyPhrases.join(' ')
