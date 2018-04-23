@@ -10667,7 +10667,7 @@ var phrases = [
   "We want to use a lot pressure while using no pressure at all.",
   "We wash our brush with odorless thinner.",
   "We'll do another happy little painting.",
-  "We'll have a super time.",
+  "JESUS FUCKING CHRIST NÅ ER JEG LEI!"
   "We'll lay all these little funky little things in there.",
   "We'll make some happy little bushes here.",
     "You can create beautiful things - but you have to see them in your mind first.",
