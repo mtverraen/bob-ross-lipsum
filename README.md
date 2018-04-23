@@ -8,5 +8,5 @@ Enjoy some phrases from Bob Ross' [Joy of Painting](https://en.wikipedia.org/wik
 git clone https://github.com/mtverraen/bob-ross-lipsum
 cd bob-ross-lipsum
 npm link
-bob-ross-lipsom
+bob-ross-lipsum
 ```
