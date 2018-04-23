@@ -10696,7 +10696,6 @@ var phrases = [
   "You can do anything here. So don't worry about it.",
   "You can do anything your heart can imagine.",
   "You can do it.",
-  "776",
   "You can get away with a lot.",
   "You can spend all day playing with mountains.",
   "You can work and carry-on and put lots of little happy things in here.",
