@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/forresto/bob-ross-lipsum/issues"
   },
-  "homepage": "https://github.com/forresto/bob-ross-lipsum#readme"
+  "bin": {
+    "bob-ross-says": "index.js"
+  },
+  "homepage": "https://github.com/forresto/bob-ross-lipsum#readme",
+  "devDependencies": {
+    "markov-strings": "^1.5.0"
+  }
 }
